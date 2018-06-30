@@ -1,3 +1,3 @@
-# Udemy Courses Certificates of Completion
+# Online Courses Certificates of Completion
 
-A list of the certificates of completion of various online Udemy courses.
+A list of the certificates of completion of various online courses (mainly Udemy).
